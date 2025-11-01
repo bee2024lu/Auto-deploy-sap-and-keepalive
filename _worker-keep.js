@@ -1,6 +1,6 @@
 // 环境变量配置(必填)
-let email = "leetio027@gmail.com";      // SAP登录邮箱,直接填写或设置环境变量，变量名：EMAIL
-let password = "flkljJ9a8q3|@d98";   // SAP登录密码,直接填写或设置环境变量，变量名：PASSWORD
+let email = "grape@ccllins.dpdns.org";      // SAP登录邮箱,直接填写或设置环境变量，变量名：EMAIL
+let password = "flkljJ156a8Q3|@d288";   // SAP登录密码,直接填写或设置环境变量，变量名：PASSWORD
 
 // 离线重启通知 Telegram配置(可选)
 let CHAT_ID = "7613313360";    // Telegram聊天CHAT_ID,直接填写或设置环境变量，变量名：CHAT_ID
@@ -8,7 +8,7 @@ let BOT_TOKEN = "8244051936:AAF9BxqnFQl9nSwOZZMA-dLsh-4SBldMHWA";  // Telegram�
 
 // 应用配置 URL和应用名称配置(必填)
 const MONITORED_APPS = [ // 格式: {url: "应用URL", name: "应用名称"}
-  {url: "https://meal.cfapps.ap21.hana.ondemand.com", name: "meal"},  
+  {url: "https://jsu.cert.cfapps.us10-001.hana.ondemand.com", name: "jsu"},  
   
 ];
 
